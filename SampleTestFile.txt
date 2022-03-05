@@ -5,3 +5,4 @@ There is some text
 
 This is Comparison lecture
 
+This is Stash lecture, Change in File 1
