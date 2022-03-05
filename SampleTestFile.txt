@@ -1,3 +1,7 @@
 This is Sample File 1
 
+
 There is some text
+
+This is Comparison lecture
+
